@@ -1,4 +1,4 @@
-ventas
+AS400 - Android nativo
 ======
 
 Código en Android nativo para conectar con AS400
